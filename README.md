@@ -13,7 +13,7 @@
 
 💡 **ABOUT ME** 💡
 
-[cite_start]I am a motivated IT Engineering student passionate about data analytics, web development, and problem-solving. [cite_start]I have hands-on experience in Python, SQL, Pandas, and responsive web technologies through academic and personal projects. [cite_start]I am deeply interested in transforming data into meaningful insights and continuously improving technical skills in real-world environments.
+I am a motivated IT Engineering student passionate about data analytics, web development, and problem-solving.I have hands-on experience in Python, SQL, Pandas, and responsive web technologies through academic and personal projects.I am deeply interested in transforming data into meaningful insights and continuously improving technical skills in real-world environments.
 
 </div>
 
